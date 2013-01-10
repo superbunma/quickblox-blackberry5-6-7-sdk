@@ -1,0 +1,40 @@
+RIM-COD-SHA1-4: 37 c6 ed 55 bd e0 23 24 05 e5 98 9d 32 8f 36 82 e3 61 39 09
+RIM-COD-SHA1-3: 04 5c bc 81 cb 85 32 f6 28 14 51 d3 37 fc 1d ef da d9 3e c2
+RIM-COD-SHA1-2: 55 f5 c1 e1 b8 d7 0b dc 40 91 f8 fa 6b 09 0a 54 2d 09 33 f2
+RIM-COD-SHA1-1: de 50 02 ae 49 ac 75 75 77 bf 35 dd 24 48 bd d5 3e f3 34 1a
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 911356
+MIDlet-Name: ExampleChat
+MIDlet-Jar-URL: ExampleChat.jar
+MicroEdition-Configuration: CLDC-1.1
+RIM-COD-URL-8: ExampleChat-8.cod
+RIM-COD-URL-7: ExampleChat-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_networkapi,net_rim_bbapi_mailv2
+RIM-COD-URL-6: ExampleChat-6.cod
+RIM-COD-URL-5: ExampleChat-5.cod
+RIM-COD-URL-4: ExampleChat-4.cod
+RIM-COD-URL-3: ExampleChat-3.cod
+RIM-COD-URL-2: ExampleChat-2.cod
+RIM-COD-URL-1: ExampleChat-1.cod
+RIM-COD-Size-8: 50324
+RIM-COD-Size-7: 50148
+RIM-COD-Size-6: 50128
+RIM-COD-Size-5: 50124
+RIM-COD-Size-4: 43592
+RIM-COD-Size-3: 58096
+RIM-COD-Module-Name: ExampleChat
+RIM-COD-Size-2: 58504
+RIM-COD-Size-1: 79040
+RIM-COD-SHA1: 60 47 9c c3 ce 6c b7 32 e5 09 34 1a 14 89 9d ba 35 29 7c 97
+RIM-COD-Size: 70356
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: <unknown>
+MIDlet-1: ,../QuickbloxChat/res/img/logo_big_57x.png,
+RIM-COD-URL: ExampleChat.cod
+Manifest-Version: 1.0
+MIDlet-Version: 0.0
+RIM-COD-SHA1-8: 6b 99 24 f1 3d 0c a3 d0 37 c3 6d ac 2f 6c 21 d6 b0 84 e2 37
+RIM-COD-SHA1-7: d8 e1 46 05 57 76 cb 1a a1 e3 c3 19 31 7c ac d5 21 12 10 57
+RIM-COD-Creation-Time: 1352738047
+RIM-COD-SHA1-6: 54 51 a5 7c 6a 02 4f 76 d0 75 52 86 a6 95 89 62 dd 81 1f 32
+RIM-COD-SHA1-5: 6a 61 2b 48 17 2d 27 73 ab 33 16 c0 a0 e3 5e cd c6 85 72 c9
