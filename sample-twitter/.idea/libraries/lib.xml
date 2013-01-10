@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/json-me.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/FacebookBlackBerrySDK-v0.8.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/twitter_api_me-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Log4B-v0.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kxml2-min-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/net_rim_bb_qm_platform.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

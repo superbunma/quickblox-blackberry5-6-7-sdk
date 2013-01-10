@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.0
+MIDlet-Jar-Size: 272203
+RIM-COD-URL-2: ExampleNews-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: ExampleNews.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_browser_field_api,net_rim_bb_browser_field2_api,net_rim_xml_org,net_rim_networkapi,net_rim_os
+RIM-COD-SHA1-2: bd 7f 9a 6d b6 e4 e8 e7 fc ae d7 1e 68 ce ed 21 52 54 72 09
+RIM-COD-URL-1: ExampleNews-1.cod
+RIM-COD-SHA1-1: be 86 3a 4f a3 9c b5 a2 72 a1 ab f9 a5 c8 92 9c b8 6c d5 3a
+RIM-COD-Size-2: 11236
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 66188
+RIM-COD-Module-Name: ExampleNews
+MIDlet-Name: ExampleNews
+RIM-COD-Size: 71016
+RIM-COD-Creation-Time: 1353510312
+MIDlet-1: ,,
+RIM-COD-URL: ExampleNews.cod
+RIM-COD-SHA1: 21 7d c2 16 f2 e4 65 36 bb 20 06 da 37 bd 53 86 0b 02 4d d2
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: <unknown>
